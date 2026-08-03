@@ -2,6 +2,7 @@ import tkinter as tk
 from time import strftime
 
 # ========comment added by Balaganesh======
+print("hi 3")
 def light_theme():
     frame = tk.Frame(root, bg="white")
     frame.place(relx=0.1, rely=0.1, relwidth=0.8, relheight=0.8)
